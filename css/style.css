@@ -140,7 +140,7 @@ body {
     .navbar-default .navbar-brand {
         font-style: italic;
         font-weight: 800;
-        font-size: 1.5em;
+        font-size: 1.2em;
         color: #FFF;
     }
     .navbar-default .navbar-brand img {
@@ -482,6 +482,7 @@ ul.nav.nav-tabs > .active > a {
 #headerwrap #opening-times {
     background: #222;
     padding: 15px 30px;
+    margin: 0;
 }
 
 #opening-item-left {
@@ -1134,7 +1135,6 @@ hr.star:after {
     z-index: 100;
     bottom: 0;
     width: 100%;
-    margin-left: -15px;
 }
 
 #footerwrap a {
