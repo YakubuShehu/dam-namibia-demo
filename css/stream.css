@@ -1,0 +1,25 @@
+/*
+*   TRADESOFT RADIO STYLESHEET
+*   By Yakubu Shehu
+*   Icons from:
+*       https://www.iconfinder.com/iconsets/pictograms-vol-2-3
+*/
+
+*, body {
+    background-color: #000;
+    text-align: center;
+    margin: auto;
+}
+
+.player {
+    margin: 10px auto;
+    padding: 10px 0;
+    width: 300px;
+    height: auto;
+    border: 2px solid #ffa500;
+    border-radius: 3px;
+}
+
+audio {
+    width:16em;padding:0;
+}
