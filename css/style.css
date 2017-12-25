@@ -125,7 +125,7 @@ body {
     color: #f60001;
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 1366px) {
 
     .navbar-default {
         padding: 5px 0;
@@ -145,7 +145,7 @@ body {
     }
     .navbar-default .navbar-brand img {
         height: 50px;
-        margin-top: -10px;
+        margin-top: -12px;
     }
 
     .navbar-default .navbar-brand:hover,
@@ -240,7 +240,7 @@ ul.nav.navbar-nav li:hover:before {
 }
 
 /* Responsive Feature - When To Collapse Collapsable */
-@media (max-width: 1280px) {
+@media (max-width: 1366px) {
     .navbar-header {
         float: none;
     }
@@ -285,7 +285,7 @@ ul.nav.navbar-nav li:hover:before {
 }
 
 /* Responsive Feature - Nav Links */
-@media (max-width: 1280px) {
+@media (max-width: 1366px) {
     .navbar-default .navbar-nav > li > a {
         font-size: 1.5em;
         color: #fff;
