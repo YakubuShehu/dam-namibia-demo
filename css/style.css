@@ -1010,6 +1010,7 @@ td.text-right {
     border-color: #000;
     background-color: rgb(15, 70, 87);
     color: #fff;
+    font-size: 0.75em;
     margin-bottom:  50px;
     padding: 1.5em;
     box-shadow: none;
