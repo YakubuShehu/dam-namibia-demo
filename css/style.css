@@ -459,13 +459,12 @@ ul.nav.nav-tabs > .active > a {
 
 
 #headerwrap .header-main-text {
-    font-size: 2.5em;
-    font-style: italic;
+    font-size: 2em;
 }
 
 #headerwrap .header-leading-text {
-    font-size: 4em;
-    font-weight: bolder;
+    font-size: 2em;
+    font-weight: bold;
 }
 
 #headerwrap .btn {
@@ -1174,7 +1173,7 @@ hr.star:after {
 
 
 
-@media(min-width:1600px) {
+@media(min-width:2440px) {
     #footerwrap {
         position: fixed;
     }
